@@ -3,7 +3,8 @@
 
 # VISTAmap
 Single-Frame Vignetting Correction for Post-Stitched-Tile Im-aging using VISTAmap (VIgnetted Stitched-Tile Adjustment using Morphological Adaptive Processing)
-Disclaimer: This is designed as a tutorial in image processing to mitigate the negative impacts of shaded artifacts in large, non-rectangular post-stitched tile images, especially when the raw individual tiles are not available. 
+
+**Disclaimer**: This is designed as a tutorial in image processing to mitigate the negative impacts of shaded artifacts in large, non-rectangular post-stitched tile images, especially when the raw individual tiles are not available. 
 No method that modulates pixel intensities is suitable for all types of quantitative analyses. This simple method is intended for illustrative purposes.
 Step-wise instruction can be found in the associated article in the special edition of _Nanomaterials (MDPI)_ titled: "New Advances in Applications of Nanoscale Imaging and Nanoscopy"
 
