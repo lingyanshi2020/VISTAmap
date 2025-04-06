@@ -19,3 +19,5 @@ Windows 11 Pro
 Simply press run, or section > run section to run an individual section 
 
 Inputs are a single-frame (2D) stitched image, and optionally a binary mask image of the tissue (if not, the code will attempt to create a mask)
+
+Demo images are included as "demo.oir" and "demo_mask.tif"
