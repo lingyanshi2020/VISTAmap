@@ -8,7 +8,7 @@ Single-Frame Vignetting Correction for Post-Stitched-Tile Im-aging using VISTAma
 No method that modulates pixel intensities is suitable for all types of quantitative analyses. This simple method is intended for illustrative purposes.
 Step-wise instruction can be found in the associated article in the special edition of _Nanomaterials (MDPI)_ titled: "New Advances in Applications of Nanoscale Imaging and Nanoscopy"
 
-Cite as: Anthony A. Fung, Ashley H. Fung, Zhi Li, Lingyan Shi, "Single-Frame Vignetting Correction for Post-Stitched-Tile Im-aging" Nanomaterials, 2025 
+Cite as: Fung, Anthony A., Ashley H. Fung, Zhi Li, and Lingyan Shi. “Single-Frame Vignetting Correction for Post-Stitched-Tile Imaging Using VISTAmap.” Nanomaterials 15, no. 7 (January 2025): 563. https://doi.org/10.3390/nano15070563.
 
 Instructions:
 This was tested using:
