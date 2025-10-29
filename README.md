@@ -1,8 +1,10 @@
-![VISTA](https://github.com/user-attachments/assets/196129ab-2399-4f74-8a4d-09d84700059d)
+<img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/3aac89d4-6e1e-401a-a692-d1ec467317ff" />![VISTA](https://github.com/user-attachments/assets/196129ab-2399-4f74-8a4d-09d84700059d)
 ![graphical abstract VISTAmap](https://github.com/user-attachments/assets/5da43041-3e42-4239-91fa-5d2d2d0ec43b)
 
 # VISTAmap
 Single-Frame Vignetting Correction for Post-Stitched-Tile Im-aging using VISTAmap (VIgnetted Stitched-Tile Adjustment using Morphological Adaptive Processing)
+
+For python version that works in command line: https://github.com/Zhi-Li-SRS/VISTAmap
 
 **Disclaimer**: This is designed as a tutorial in image processing to mitigate the negative impacts of shaded artifacts in large, non-rectangular post-stitched tile images, especially when the raw individual tiles are not available. 
 No method that modulates pixel intensities is suitable for all types of quantitative analyses. This simple method is intended for illustrative purposes.
