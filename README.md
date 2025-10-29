@@ -1,4 +1,4 @@
-<img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/3aac89d4-6e1e-401a-a692-d1ec467317ff" />![VISTA](https://github.com/user-attachments/assets/196129ab-2399-4f74-8a4d-09d84700059d)
+![VISTA](https://github.com/user-attachments/assets/196129ab-2399-4f74-8a4d-09d84700059d)
 ![graphical abstract VISTAmap](https://github.com/user-attachments/assets/5da43041-3e42-4239-91fa-5d2d2d0ec43b)
 
 # VISTAmap
