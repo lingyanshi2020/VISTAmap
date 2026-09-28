@@ -5,6 +5,7 @@
 Single-Frame Vignetting Correction for Post-Stitched-Tile Im-aging using VISTAmap (VIgnetted Stitched-Tile Adjustment using Morphological Adaptive Processing)
 
 For python version that works in command line: https://github.com/Zhi-Li-SRS/VISTAmap
+For interactive python notebook (Google Colab .ipynb): https://colab.research.google.com/drive/1z6eqrGPIcdzvspRmpHhxZ9OK10jCDy1W?usp=sharing. Ensure A100 high-RAM runtime is enabled for large images
 
 **Disclaimer**: This is designed as a tutorial in image processing to mitigate the negative impacts of shaded artifacts in large, non-rectangular post-stitched tile images, especially when the raw individual tiles are not available. 
 No method that modulates pixel intensities is suitable for all types of quantitative analyses. This simple method is intended for illustrative purposes.
